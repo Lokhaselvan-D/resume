@@ -1,0 +1,12 @@
+table,
+      th,
+      td {
+        border: 1px solid black;
+      }
+      img {
+        float: right;
+      }
+h1 {
+  text-transform: uppercase;
+  color: #6b486f;
+}

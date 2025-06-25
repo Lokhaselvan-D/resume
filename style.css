@@ -1,14 +1,17 @@
-table,
-      th,
-      td {
-        border: 1px solid black;
+table,th,td {
+        border: 2px solid rgb(55, 19, 90);
       }
       img {
         float: right;
       }
 h1 {
   text-transform: uppercase;
-  color: #ff8a31;
+  color: #6234ad;
 }h3 {
   color: #bf5a76;
+}form{
+  background-color: rgb(195, 244, 248);
+  width: 200px;
+  padding: 50px;
+  display: inline-block;
 }
